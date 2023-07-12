@@ -1,0 +1,11 @@
+.op{
+    border: 5px solid black;
+    height: 680px;
+    width: 450px;
+    margin-top: 30px;
+    border-radius: 20%;
+    background-color: palevioletred;
+}
+.head{
+    margin-top: 10px;
+}
